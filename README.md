@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Richhariya</h1>
 <h3 align="center">Portfolio</h3>
 
-### Link of the app: [Aman Portfolio](https:/).
+### Link of the app: [Aman Portfolio](https://drago-portfolio.vercel.app/).
 
 ### How to start?
 
