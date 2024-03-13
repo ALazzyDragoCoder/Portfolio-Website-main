@@ -1,0 +1,111 @@
+[{
+        "name": "Nutri-Saga",
+        "desc": "Project to set the diet for students by teacher with meal details are show and full details about like protein minerals Vitamins Carbo-hydrate and Glucose",
+        "image": "Nutrisaga",
+        "category": "WEB",
+        "links": {
+            "view": "https://nutri-saga-frontend.vercel.app/",
+            "code": "https://github.com/ALazzyDragoCoder/nutri-saga-web-app-master"
+        }
+    },
+    {
+        "name": "Crops-Cart",
+        "desc": "This is an E-commerce Online Shopping site for Farmer’s and who love farming can buy Agriculture Tools and Seed.",
+        "image": "CropsCart",
+        "category": "WEB",
+        "links": {
+            "view": "https://crops-cart.vercel.app/",
+            "code": "https://github.com/ALazzyDragoCoder/Project-Final-Capstone"
+        }
+    },
+    {
+        "name": "Interactive Todo",
+        "desc": "This is a modern webite of todo list with mobile and desktop compatible and in full size it will show as a smartphonescreen in desktop.It will help you to rember things you done in a day",
+        "image": "Interactivetodo",
+        "category": "Software",
+        "links": {
+            "view": "https://interactive-todo1.vercel.app/",
+            "code": "https://github.com/ALazzyDragoCoder/Interactive-Todo"
+        }
+    },
+    {
+        "name": "NextTS Task Management",
+        "desc": "This is my first TypeScript Project. It is a CURD model project that help to doing task  management.",
+        "image": "NextTS",
+        "category": "NextTS",
+        "links": {
+            "view": "https://tasker-1ek4.vercel.app/",
+            "code": "https://github.com/ALazzyDragoCoder/Tasker"
+        }
+    },
+    {
+        "name": "Portfolio website",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "Portfolio",
+        "category": "WEB",
+        "links": {
+            "view": "https://portfolio-ten-orpin-70.vercel.app/",
+            "code": "https://github.com/ALazzyDragoCoder/Protofolio"
+        }
+    },
+    {
+        "name": "Weather OP",
+        "desc": "Its a weather application that help you to see the weather of your city .",
+        "image": "WeatherApp",
+        "category": "Project",
+        "links": {
+            "view":"https://github.com/ALazzyDragoCoder/AccuWeather-master",
+            "code": "https://github.com/ALazzyDragoCoder/AccuWeather-master"
+        }
+    },
+    {
+        "name": "IBM Certificate",
+        "desc": "Introduction to Web Development with HTML, CSS, JavaScript By IBM.",
+        "image": "IBM",
+        "category": "Certificate",
+        "links": {
+            "view": "https://www.coursera.org/account/accomplishments/certificate/HNDUCSC9VT7Z",
+            "code": "https://www.coursera.org/account/accomplishments/certificate/HNDUCSC9VT7Z"
+        }
+    },
+  
+
+    {
+        "name": "freeCodeCamp Certificate",
+        "desc": "Responsive Web Design",
+        "image": "Certificate",
+        "category": "Achieve",
+        "links": {
+            "view": "https://drive.google.com/file/d/1r7AKlsIHQqgaSAeDqvBR_vDALHYTMjsm/view?usp=drive_link",
+            "code": "https://drive.google.com/file/d/1r7AKlsIHQqgaSAeDqvBR_vDALHYTMjsm/view?usp=drive_link"
+        }
+    },
+    {
+        "name": "Participate in AI Club VIT",
+        "desc": "AI Powered Mobile Application Development",
+        "image": "AI",
+        "category": "Achieve",
+        "links": {
+            "view":"https://drive.google.com/file/d/16hHgI3brZnb1kA5EtJg4kyn17LdgKSIW/view?usp=drive_link",
+            "code": "https://drive.google.com/file/d/16hHgI3brZnb1kA5EtJg4kyn17LdgKSIW/view?usp=drive_link"
+        }
+    },
+    {
+        "name": "OnePlus Campus Dominate ",
+        "desc": "Finalist in Official Oneplus Campus Dpminate . Team Name - Team EPIC ESPORTS",
+        "image": "oneplus",
+        "category": "Achieve",
+        "links": {
+            "view": "https://www.youtube.com/live/nbFnGLcM1Qw?feature=shared",
+            "code": "https://www.youtube.com/live/nbFnGLcM1Qw?feature=shared"
+        }
+    }
+
+
+
+
+
+
+
+
+]
