@@ -21,7 +21,7 @@
     {
         "name": "Interactive Todo",
         "desc": "This is a modern webite of todo list with mobile and desktop compatible and in full size it will show as a smartphonescreen in desktop.It will help you to rember things you done in a day",
-        "image": "Interactivetodo",
+        "image": "Inter",
         "category": "Software",
         "links": {
             "view": "https://interactive-todo1.vercel.app/",
